@@ -1,5 +1,8 @@
 # Retropaje
 
+![logo-retropaje](https://github.com/retropaje/.github/assets/33881631/e5da0b46-1910-4ed8-8f8b-3e62ef11ed0f)
+
+
 ¡Bienvenidos a **Retropaje**! Somos una tienda online dedicada a la venta de ropa de segunda mano, con un enfoque sostenible y accesible para todos. Este proyecto forma parte del curso de Ingeniería de Software en la Universidad Nacional Experimental del Táchira (UNET).
 
 ## Repositorios
