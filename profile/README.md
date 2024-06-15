@@ -23,6 +23,14 @@ Este repositorio contiene la aplicación frontend desarrollada en React. La inte
 
 Este proyecto tiene un objetivo académico como parte del curso de Ingeniería de Software en la UNET. Busca proporcionar a los estudiantes una experiencia práctica en el desarrollo de aplicaciones web completas utilizando tecnologías modernas.
 
+## Tablero de Trello
+
+[Tablero](https://trello.com/b/dlqWbnST/ecommerce-shop-unet)
+
+## Plan de pruebas
+
+[Plan de pruebas](https://docs.google.com/spreadsheets/d/1SsaV7r2KIySPkPYFkG7NclJPQa-eHf6-pKH5_9aO9CU/edit?usp=sharing)
+
 ## Contribuciones
 
 Si estás interesado en contribuir a este proyecto, por favor revisa los repositorios correspondientes y sigue las guías de contribución establecidas. Apreciamos todas las contribuciones y retroalimentación que nos puedan ayudar a mejorar.
